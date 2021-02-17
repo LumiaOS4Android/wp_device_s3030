@@ -1,5 +1,5 @@
 # OWN S3030
-This branch is for building Windows Phone ROMs 
+This branch is for building Windows Phone 8.1 ROMs 
 
 <img src="https://publicapi.solotodo.com/products/17727/picture/?width=1000&height=520" width="1000" height="520" />
 
