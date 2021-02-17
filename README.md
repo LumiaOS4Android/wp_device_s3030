@@ -11,5 +11,5 @@ Memory  | 512MB RAM
 Shipped OS | Android 4.4.2 Kitkat
 Storage | 4GB
 Battery | 1430  mAh BL-5J
-Display | 4.0" 800 x 480 px (Orise-based)
+Display | 4.0" 800 x 480 px
 Camera  | 8MP
