@@ -6,7 +6,6 @@ This branch is for building Windows Phone 8.1 ROMs
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | 1.3 GHz Quad-Core MT6582
-GPU     | Adreno 305
 Memory  | 512MB RAM
 Shipped OS | Android 4.4.2 Kitkat
 Storage | 4GB
